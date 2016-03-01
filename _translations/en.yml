@@ -784,7 +784,7 @@ en:
     cryptography: "Cryptography"
     cryptographytxt: "Cryptography is the branch of mathematics that lets us create <b>mathematical proofs that provide high levels of security</b>. Online commerce and banking already uses cryptography. In the case of Bitcoin, cryptography is used to make it impossible for anybody to spend funds from another user's wallet or to corrupt the <a href=\"#[vocabulary.blockchain]\">block chain</a>. It can also be used to encrypt a wallet, so that it cannot be used without a password."
     doublespend: "Double Spend"
-    doublespendtxt: "If a user tries to <b>send the same bitcoins in two sperate transactions, before either of the transactions has recieved a confirmation,</b>, this is double spending. Bitcoin <a href=\"#[vocabulary.mining]\">mining</a> and the <a href=\"#[vocabulary.blockchain]\">block chain</a> are there to create a consensus on the network about which of the two transactions will confirm and be considered valid."
+    doublespendtxt: "If a user tries to <b>send the same bitcoins in two seperate transactions, before either of the transactions has recieved a confirmation,</b>, this is double spending. Bitcoin <a href=\"#[vocabulary.mining]\">mining</a> and the <a href=\"#[vocabulary.blockchain]\">block chain</a> are there to create a consensus on the network about which of the two transactions will confirm and be considered valid."
     hashrate: "Hash Rate"
     hashratetxt: "The hash rate is the <b>measuring unit of the processing power of the Bitcoin network</b>. The Bitcoin network must make intensive mathematical operations for security purposes. When the network reached a hash rate of 10 Th/s, it meant it could make 10 trillion calculations per second."
     mining: "Mining"
