@@ -4,12 +4,12 @@
 
 required:
                                            #-------------40 characters-------------#
-    title_max_40_characters_no_formatting: Spent, Spent Transactions
+    title_max_40_characters_no_formatting: Spent, Spend
 
     summary_max_255_characters_no_formatting: >
         A term to describe when an output is used for a transaction input. The 
         term conveys a transaction that has been broadcast to the network, but 
-        does not indicate whether it has recieved any confirmations.
+        does not indicate whether it has received any confirmations.
   
     synonyms_shown_in_glossary_capitalize_first_letter:
         - n/a
@@ -17,7 +17,6 @@ required:
 optional:
     synonyms_and_pluralizations_not_shown_in_glossary:
         - Spents
-        - Spend
         - Spends
         - Spending
         - Broadcast
