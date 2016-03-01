@@ -4,27 +4,25 @@
 
 required:
                                            #-------------40 characters-------------#
-    title_max_40_characters_no_formatting: Spent, Spend
+    title_max_40_characters_no_formatting: Unspent
 
     summary_max_255_characters_no_formatting: >
-        A term to describe when an output is used for a transaction input. The 
-        term conveys a transaction that has been broadcast to the network, but 
-        does not indicate whether it has received any confirmations.
+        A term for the status of an input when there is no associated output. 
+        This term is used to convey when a certain input is still available for
+        use in a new transaction.
   
     synonyms_shown_in_glossary_capitalize_first_letter:
         - n/a
 
 optional:
     synonyms_and_pluralizations_not_shown_in_glossary:
-        - Spents
-        - Spends
-        - Spending
-        - Broadcast
-        - Push
+        - Unspended
+        - Hodl
+        - Hodling
 
     not_to_be_confused_with_capitalize_first_letter:
 
     links_html_or_markdown_style_capitalize_first_letter:
-        - "[Spent](/en/developer-guide#term-spent) --- Bitcoin.org Developer Guide"
+        - "[Unspent](/en/developer-guide#term-unspent) --- Bitcoin.org Developer Guide"
 
 ---
